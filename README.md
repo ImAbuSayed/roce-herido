@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/roce-herido/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Roce herido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-herido/) |
+| **Get License** | [Official Music Licensing for Roce herido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-herido/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `045e4e7778b3fa9a9beffb6f80dcc30f8ece461a0c49d70243d75a65636798c5` |
 | **Timestamp** | June 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Roce herido
+
+This log tracks the cryptographic history and versioning for the song **Roce herido** (roce-herido).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T19:55:59.033723 | `v1` | `045e4e7778b3fa9a9beffb6f80dcc30f8ece461a0c49d70243d75a65636798c5` | `60a6d53dd99522be52fff7badb1bd91e3549c71960412384d65d4355d2548aee` | `2026-06-18_roce-herido-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
