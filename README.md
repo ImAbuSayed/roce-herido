@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/roce-herido/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Roce herido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-herido/) |
+| **Get License** | [Obtain a Music License for Roce herido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-herido/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, la disco está oscura y yo solo te veo a ti
+> Con ese flow de Madrid que me pone crazy por ti
+> Acércate un poquito, let me see your fantasy
+> Tu cuerpo y el mío rozando en el VIP
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
